@@ -1,2 +1,2 @@
 Git tutorial
-i have created
+i have created one repository
